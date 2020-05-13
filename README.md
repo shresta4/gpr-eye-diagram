@@ -1,1 +1,1 @@
-"# gpr-eye-diagram" 
+[Fall 2019] Gaussian Process Regression for eye diagram data, comparing sklearn and pytorch GPR models. Results are summarized here: https://drive.google.com/file/d/13V-SWgtGByc7pOe8EhT3W9hhbgWwzaIU/view?usp=sharing
